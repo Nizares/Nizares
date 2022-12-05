@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 ## Hai Semuanya!, Hello Everyone!, みなさんこんにちは! 👋👋👋
 
 - 🔭 I’m currently studying at Mulawarman University in the Informatics Study Program
-- 🌱 I’m currently who intrested to learn about Data Analyst, Data Science, Cloud Computing, Object Oriented Programming
+- 🌱 I’m currently who intrested to learn about :
+    -  Data Analyst
+    -  Data Science
+    -  Cloud Computing 
+    -  Object Oriented Programming
 - 😄 Pronouns: 少し! a.k.a SUKOSHII!(^///^)
 - ⚡ Fun fact: Im Weebs(?), A J-Pop Listener!!🎶🎶 TUYU☔ and YOASOBI🌃 fans 
 - 📫 How to reach me: 
