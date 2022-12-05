@@ -1,5 +1,5 @@
 <!--
-**zeerafle/zeerafle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sukoshi2/Sukoshi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,9 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Im Sukoshi a.k.a Muhammad Nizar 
+## Hai Semuanya!, Hello Everyone!, みなさんこんにちは! 👋👋👋
 
 - 🔭 I’m currently studying at Mulawarman University in the Informatics Study Program
-- 🌱 I’m currently intrested for learning about Data Analyst, Data Science, Cloud Computing, Object Oriented Programming
+- 🌱 I’m currently who intrested to learning about Data Analyst, Data Science, Cloud Computing, Object Oriented Programming
 - 😄 Pronouns: 少し! a.k.a SUKOSHII!(^///^)
 - ⚡ Fun fact: Im Weebs(?), A J-Pop Listener!!🎶🎶 TUYU☔ and YOASOBI🌃 fans 
 - 📫 How to reach me: 
