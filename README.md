@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Im Sukoshi a.k.a Muhammad Nizar 
+#### you can call me Nizar/Nizar/Suko
 ## Hai Semuanya!, Hello Everyone!, みなさんこんにちは! 👋👋👋
 
 - 🔭 I’m currently studying at Mulawarman University in the Informatics Study Program
