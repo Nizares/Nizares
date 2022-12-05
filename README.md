@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 #### You can call me Nizar/Nizar/Suko
 ## Hai Semuanya!, Hello Everyone!, みなさんこんにちは! 👋👋👋
 
-- 🔭 I’m currently studying at Mulawarman University in the Informatics Study Program
+- 🔭 I’m currently studying at Mulawarman University, Informatics
 - 🌱 I’m currently who intrested to learn about :
     -  Data Analyst
     -  Data Science
