@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently studying at Mulawarman University in the Informatics Study Program
-- 🌱 I’m crrently learning about Data Analyst, Data Science, Cloud Computing, Object Oriented Programming
+- 🌱 I’m currently intrested for learning about Data Analyst, Data Science, Cloud Computing, Object Oriented Programming
 - 😄 Pronouns: 少し! a.k.a SUKOSHII!(^///^)
 - ⚡ Fun fact: Im Weebs(?), A J-Pop Listener!!🎶🎶 TUYU☔ and YOASOBI🌃 fans 
 - 📫 How to reach me: 
