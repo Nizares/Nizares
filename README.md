@@ -14,18 +14,11 @@ Here are some ideas to get you started:
 -->
 # Im Sukoshi a.k.a Muhammad Nizar 
 #### You can call me Nizar/Nijar/Suko
-## Hai Semuanya!, Hello Everyone!, みなさんこんにちは! 👋👋👋
+## Hai Semuanya!, Hello Everyone!, みなさんこんにちは! 👋
 
 - 🔭 I’m currently studying at Mulawarman University, Informatics
-- 🌱 I’m currently who intrested to learn about :
-    -  Data Analyst
-    -  Data Science
-    -  Cloud Computing 
-    -  Object Oriented Programming
-- 😄 Pronouns: 少し! a.k.a SUKOSHII!(^///^)
-- ⚡ Fun fact: Im Weebs(?), A J-Pop Listener!!🎶🎶 TUYU☔ and YOASOBI🌃 fans 
-- 📫 How to reach me: 
-    - 🆔 [LinkedIn](https://www.linkedin.com/in/muhammad-nizar-55a577256)
+- 🌱 I’m currently who intrested to learn about : Data Engineeer, Cloud Computing
+- 📫 How to reach me:
     - 📶 [Website](https://sukoshi2.github.io/)
     - 🤖 Discord : Sukoshi#8267
 
