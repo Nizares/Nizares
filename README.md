@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Hai Semuanya!, Hello Everyone!, みなさんこんにちは! 👋
 
 - 🔭 I’m currently studying at Mulawarman University, Informatics
-- 🌱 I’m currently who intrested to learn about : Data Engineeer, Cloud Computing
+- 🌱 I’m currently intrested to learn about : Data Engineeer, Cloud Computing
 - 📫 How to reach me:
     - 📶 [Website](https://sukoshi2.github.io/)
     - 🤖 Discord : Sukoshi#8267
