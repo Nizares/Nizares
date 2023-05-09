@@ -17,15 +17,16 @@ Here are some ideas to get you started:
 ## Hai Semuanya!, Hello Everyone!, みなさんこんにちは! 👋
 
 - 🔭 I’m currently studying at Mulawarman University, Informatics
-- 🌱 I’m currently intrested to learn about : Data Engineeer, Cloud Computing
+<!-- - 🌱 I’m currently intrested to learn about : Data Engineeer, Cloud Computing -->
 - 📫 How to reach me:
     - 📶 [Website](https://sukoshi2.github.io/)
     - 🤖 Discord : Sukoshi#8267
 
-
+<!--
 <p align="center">
 <a href="https://github.com/Nizares">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nizares&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nizares&layout=compact&langs_count=8&theme=prussian"/>
 </a>
 </p>
+-->
