@@ -22,11 +22,11 @@ Here are some ideas to get you started:
     - 📶 [Website](https://Nizares.github.io/)
     - 🤖 Discord : Sukoshi#8267
 
-<!--
+
 <p align="center">
 <a href="https://github.com/Nizares">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nizares&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nizares&layout=compact&langs_count=8&theme=prussian"/>
 </a>
 </p>
--->
+
