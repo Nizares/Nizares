@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Im Sukoshi a.k.a Muhammad Nizar 
 #### You can call me Nizar/Nijar/Suko
-## Hai Semuanya!, Hello Everyone!, みなさんこんにちは! 👋
+## Hai Semuanya!, Hello Everyone! 👋
 
 - 🔭 I’m currently studying at Mulawarman University, Informatics
 <!-- - 🌱 I’m currently intrested to learn about : Data Engineeer, Cloud Computing -->
