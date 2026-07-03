@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- - 🌱 I’m currently intrested to learn about : Data Engineeer, Cloud Computing -->
 - 📫 How to reach me:
     - 📶 [Website](https://Nizares.github.io/)
-    - 🤖 Discord : Sukoshi#8267
+    - 🤖 Discord : Sukoshi#8267 / nizares
 
 <!--
 <p align="center">
