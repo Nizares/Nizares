@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 #### You can call me Nizar/Nijar/Suko
 ## Hai Semuanya!, Hello Everyone! 👋
 
-- 🔭 I’m currently studying at Mulawarman University, Informatics
 <!-- - 🌱 I’m currently intrested to learn about : Data Engineeer, Cloud Computing -->
 - 📫 How to reach me:
     - 📶 [Website](https://Nizares.github.io/)
